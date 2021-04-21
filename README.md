@@ -1,5 +1,4 @@
-# Horoscope-Astrology-App
-ScreenShot Horoscope Astrology App
+# ScreenShot Horoscope Astrology App
 
 <img width="243" alt="Tampilan Shortcut App" src="https://user-images.githubusercontent.com/62297181/115489476-d3f47080-a28e-11eb-9bb0-a8bb5239848d.PNG">
 <img width="244" alt="Tampilan SplashScreen App" src="https://user-images.githubusercontent.com/62297181/115489481-d5be3400-a28e-11eb-8aca-a9e6626bfe39.PNG">
