@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="choose_your_zodiac">Choose Your Zodiac</string>
+    <string name="more_info">MORE INFO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Love">Love</string>
+    <string name="Healthy">Healthy</string>
+    <string name="Money">Money</string>
+    <string name="Zodiac_Match">Zodiac Match</string>
+    <string name="horoscope">Horoscope</string>
+    <string name="match">MATCH</string>
+    <string name="choose_your_option">Choose Your Option</string>
+    <string name="latar_text">Latar text</string>
+    <string name="Tarot">Tarot</string>
+
+    <string-array name="name_zodiac">
+        <item>Aries</item>
+        <item>Aquarius</item>
+        <item>Aries</item>
+        <item>Cancer</item>
+        <item>Capricorn</item>
+        <item>Gemini</item>
+        <item>Leo</item>
+        <item>Libra</item>
+        <item>Pisces</item>
+        <item>Sagitarius</item>
+        <item>Scorpio</item>
+        <item>Taurus</item>
+        <item>Virgo</item>
+    </string-array>
+
+</resources>
